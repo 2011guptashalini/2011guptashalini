@@ -11,10 +11,19 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [Hacker Rank Profile](https://www.hackerrank.com/profile/2011guptashalini)
 
 ## Work Sample 👷
-### Bug Reports:
-* [Mobile App bug report](https://github.com/2011guptashalini/2011guptashalini/blob/main/Bug-report-Sample.png)- For a Web application testing with steps, videos and log files.
-* [Mobile App bug report](https://github.com/2011guptashalini/2011guptashalini/blob/main/Bug-report-Sample.png)- For a Web application testing with steps, videos and log files.
-* [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
+### Bug Reports: 
+#### Usually now a days all the bugs are reported in bug tracking tools. These are just samples of bug reports.
+* [Web Application bug report](https://github.com/2011guptashalini/2011guptashalini/blob/main/Bug-report-Sample.png)- For a Web application testing with steps, videos and log files.
+* [Mobile App bug report](https://github.com/2011guptashalini/2011guptashalini/blob/main/MobileApp-Bugreport-docx-Google-Docs.png)- For a Web application testing with steps, videos and log files.
+* [Bug Repot](https://github.com/2011guptashalini/2011guptashalini/blob/main/BugReportWorkSampleInExcelFormat.png) - bug report sample in excel format
+* [Bug Repot](https://github.com/2011guptashalini/2011guptashalini/blob/main/Bugreport2.png) - bug tracking
+
+### Test cases Work Sample: 
+* [DataBase Testing](https://docs.google.com/spreadsheets/d/1md8cwEovUjcT5TZcvtn8L1EdhpE9zvPRmcvlg0gcmEw/edit?usp=sharing)
+* [Functiona, Usability, API testing](https://docs.google.com/spreadsheets/d/1KJRlyIQL9jEkacyuP6zoUGMbmiWZKjfwHgz-3tjMB2Y/edit?usp=sharing)
+
+### Test Closure report Work Sample: 
+* [Test clousre report- Mobile app](https://docs.google.com/document/d/1-uTHa5P7qfI93aVVx6Ace2Qb70buZ9HF/edit?usp=sharing&ouid=107154199108617124945&rtpof=true&sd=true)
 
 
 ### Domains Expertise 💻:
