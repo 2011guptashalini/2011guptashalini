@@ -7,7 +7,7 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 
 #### Reach to me on
 
-* [Upwork](https://www.upwork.com/fl/shalinigupta3)
+* [Upwork](https://www.upwork.com/fl/shalinigupta3){:target="_blank"}
 * [Guru](https://www.guru.com/freelancers/shalini-gupta)
 * [Linkedin](https://www.linkedin.com/in/shalini-gupta-3b790548/)
 * [Hacker Rank](https://www.hackerrank.com/profile/2011guptashalini)
