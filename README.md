@@ -8,6 +8,7 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [My Upwork profile](https://www.upwork.com/fl/shalinigupta3)
 * [My Guru profile](https://www.guru.com/freelancers/shalini-gupta)
 * [My Linkedin profile](https://www.linkedin.com/in/shalini-gupta-3b790548/)
+* [Hacker Rank Profile](https://www.hackerrank.com/profile/2011guptashalini)
 
 ### Domains Expertise 💻:
 * Crypto Wallet
@@ -26,47 +27,28 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [Slack](https://slack.com/) - communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
 * [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
-* [Git](https://git-scm.com/) - for better work in development team and controlling software versions
 * [GitHub](https://github.com/) - supporting Git and preparing my repositories
 * [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
-* [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL
 * [Postman](https://www.postman.com/) - API testing
-* [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
-* [Selenium](https://www.selenium.dev/)
-* [Robot framework](https://robotframework.org/)
-* [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
+* [Pycharm](https://www.jetbrains.com/pycharm/) - Python scripting
+* [Visual Studio Code](https://code.visualstudio.com/) - Python, JAVA Scription coding
+* [Selenium](https://www.selenium.dev/) - Web Automation Testing
+* [Appium](https://appium.io/docs/en/2.2/) - Mobile automation testing and integration with browserstack
+* [Playwright](https://playwright.dev/) - Web Automation Testing
+* [Cypress](https://www.cypress.io/) - Ai based web automation testing
+* [Eclipse](https://www.eclipse.org/) - Java scripting IDE
+* [Slack](https://slack.com/) - Team communication
 
-### Tech skills :computer:
-* [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
-
-| syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
-|:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
-| SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
-| FROM                          |         !=           |   BETWEEN         | UPPER                            | SUM ()                | AS      |
-| WHERE                         |         <>           |    IN             | LOWER                            | MIN ()                |  UNION  |
-| GROUP BY                      |          >           |    LIKE           | DATEDIFF (HOUR, MONTH, YEAR etc.)|                       |         |
-| ORDER BY (ASC, DESC)          |          <           |    NOT            |                                  |                       |         |
-|  UPDATE (SET)                 |         >=           |    OR             |                                  |                       |         |
-|    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
-|  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
-|                               |         !>           |                   |                                  |                       |         |
-
+### Testing Types 🧪:
+* Functional testing
 * Rest API testing
-* [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
-* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 * Software testing
-* Creating test cases
-* Reporting bugs
-* Creating bug reports
-* Basic [Python](https://www.python.org/) - for test automation
-* Basic HTML and CSS
+* Functional testing
+* DB testing
+* Automated testing
+* Regression testing
+* Mobile Automation testing
 
-### Soft skills :file_folder:
-* precision
-* communication
-* assertiveness
-* patience
-* empathy
 
 ### Courses :notebook:
 * [QA Training](https://szkoleniedlaqa.pl/szkolenie/) + [PORTFOLIO](https://github.com/PaulaRybicka0114/QA_Course)
