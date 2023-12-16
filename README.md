@@ -1,6 +1,6 @@
-# Portfolio
+# Hey This is Shalini :wave:
 
-### About me :wave:
+### About me 
 This is Shalini. As a dedicated and self-driven Project Manager and QA freelancer, I bring over 15 years of hands-on experience in Manual, Automation, and Mobile testing. Throughout the past 12 years, I have been serving clients on platforms such as Upwork, Guru, and LinkedIn. Testing and Quality Assurance are not just my profession, but my passion. I take pleasure in the process of "DESTRUCTIVE CREATION" to make applications more "CONSTRUCTIVE." With my expertise, I can guarantee that your application will function properly and exhibit exceptional endurance.
 
 So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on time, then HIRE ME🚀🚀🚀
