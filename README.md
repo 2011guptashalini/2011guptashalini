@@ -6,14 +6,13 @@ As a dedicated and self-driven Project Manager and QA freelancer, I bring over 1
 So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on time, then HIRE ME🚀🚀🚀
 
 #### Reach to me on
+
+* [Upwork](https://www.upwork.com/fl/shalinigupta3)
+* [Guru(https://www.guru.com/freelancers/shalini-gupta)
+* [Linkedin](https://www.linkedin.com/in/shalini-gupta-3b790548/)
+* [Hacker Rank](https://www.hackerrank.com/profile/2011guptashalini)
 * [Discord](https://discord.gg/FRukDEw2)
 * [Email](mailto:2011guptashalini@gmail.com)
-
-
-* [My Upwork profile](https://www.upwork.com/fl/shalinigupta3)
-* [My Guru profile](https://www.guru.com/freelancers/shalini-gupta)
-* [My Linkedin profile](https://www.linkedin.com/in/shalini-gupta-3b790548/)
-* [Hacker Rank Profile](https://www.hackerrank.com/profile/2011guptashalini)
 
 ## Work Sample 👷
 ### Manual Testing Work Sample: 
