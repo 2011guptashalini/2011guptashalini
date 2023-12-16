@@ -37,7 +37,6 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [Playwright](https://playwright.dev/) - Web Automation Testing
 * [Cypress](https://www.cypress.io/) - Ai based web automation testing
 * [Eclipse](https://www.eclipse.org/) - Java scripting IDE
-* [Slack](https://slack.com/) - Team communication
 
 ### Testing Types 🧪:
 * Functional testing
