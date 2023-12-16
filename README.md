@@ -5,12 +5,19 @@ This is Shalini. As a dedicated and self-driven Project Manager and QA freelance
 
 So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on time, then HIRE ME🚀🚀🚀
 
-[My Upwork profile](https://www.upwork.com/fl/shalinigupta3)
-[My Guru profile](https://www.guru.com/freelancers/shalini-gupta)
-[My Linkedin profile](https://www.linkedin.com/in/shalini-gupta-3b790548/)
+* [My Upwork profile](https://www.upwork.com/fl/shalinigupta3)
+* [My Guru profile](https://www.guru.com/freelancers/shalini-gupta)
+* [My Linkedin profile](https://www.linkedin.com/in/shalini-gupta-3b790548/)
 
-### My experience :office:
-I do not have any commercial experience at the moment. However, in my last job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+### Domains Expertise 💻:
+* Crypto Wallet
+* e-Commerce
+* e-Learning
+* Hotel Management
+* Affiliate Marketing
+* AI based
+* Business Management
+* Social Media
 
 ### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
