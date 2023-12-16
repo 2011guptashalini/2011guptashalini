@@ -44,9 +44,9 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * Social Media
 
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
+* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour),  [Clickup](https://clickup.com/)- project management
 * [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
-* [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
+* [Jira](https://www.atlassian.com/pl/software/jira) - bug tracking
 * [Slack](https://slack.com/) - communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
 * [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
