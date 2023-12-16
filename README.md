@@ -27,12 +27,10 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [Test clousre report- Mobile app](https://docs.google.com/document/d/1-uTHa5P7qfI93aVVx6Ace2Qb70buZ9HF/edit?usp=sharing&ouid=107154199108617124945&rtpof=true&sd=true)
 
 ### Automation Work Sample:
-* [Page Object Model, Appium For mobile app testing](https://www.awesomescreenshot.com/video/22891467?key=f71e648c63f934d2581eac59c063c571)[Git Hub Repository](https://github.com/2011guptashalini/POM_Appium_Java)
-* [Cucumber BDD framework for mobile app fucntional, API testing](https://clipchamp.com/watch/gV6wpXGhTL7)[Git Hub Repository](https://github.com/2011guptashalini/Cucumber-API-APPIUM-SELENIUM-WORKSAMPLE)
-* [Python Selenium Framework for Functional, API, DB Testing](https://screenpal.com/watch/c3f0obVY3xV)
-
-
-
+* [Page Object Model, Appium For mobile app testing](https://www.awesomescreenshot.com/video/22891467?key=f71e648c63f934d2581eac59c063c571)  [Git Hub Repository](https://github.com/2011guptashalini/POM_Appium_Java)
+* [Cucumber BDD framework for mobile app fucntional, API testing](https://clipchamp.com/watch/gV6wpXGhTL7)  [Git Hub Repository](https://github.com/2011guptashalini/Cucumber-API-APPIUM-SELENIUM-WORKSAMPLE)
+* [Python Selenium Framework for Functional, API, DB Testing](https://screenpal.com/watch/c3f0obVY3xV)   [Git Hub Repository](https://github.com/2011guptashalini/PytestSkeleton)
+* [Playwright Python POM Pytest](https://www.youtube.com/watch?v=HTHAGTiIf0c)  [Git Hub Repository](https://github.com/2011guptashalini/POM_playwright_pytest) 
 
 
 ### Domains Expertise 💻:
