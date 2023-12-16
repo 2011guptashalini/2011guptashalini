@@ -21,7 +21,7 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 
 ### Test cases Work Sample: 
 * [DataBase Testing](https://docs.google.com/spreadsheets/d/1md8cwEovUjcT5TZcvtn8L1EdhpE9zvPRmcvlg0gcmEw/edit?usp=sharing)
-* [Functiona, Usability, API testing](https://docs.google.com/spreadsheets/d/1KJRlyIQL9jEkacyuP6zoUGMbmiWZKjfwHgz-3tjMB2Y/edit?usp=sharing)
+* [Functional, Usability, API testing](https://docs.google.com/spreadsheets/d/1KJRlyIQL9jEkacyuP6zoUGMbmiWZKjfwHgz-3tjMB2Y/edit?usp=sharing)
 
 ### Test Closure report Work Sample: 
 * [Test clousre report- Mobile app](https://docs.google.com/document/d/1-uTHa5P7qfI93aVVx6Ace2Qb70buZ9HF/edit?usp=sharing&ouid=107154199108617124945&rtpof=true&sd=true)
@@ -44,14 +44,14 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * Social Media
 
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour),  [Clickup](https://clickup.com/)- project management
+* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour),  [Clickup](https://clickup.com/)- project management and bug tracking
+* [Testrail](https://www.testrail.com/), [xray](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud) - Test case management tools
 * [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
-* [Jira](https://www.atlassian.com/pl/software/jira) - bug tracking
 * [Slack](https://slack.com/) - communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
 * [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
 * [GitHub](https://github.com/) - supporting Git and preparing my repositories
-* [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
+  
 * [Postman](https://www.postman.com/) - API testing
 * [Pycharm](https://www.jetbrains.com/pycharm/) - Python scripting
 * [Visual Studio Code](https://code.visualstudio.com/) - Python, JAVA Scription coding
@@ -60,6 +60,7 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [Playwright](https://playwright.dev/) - Web Automation Testing
 * [Cypress](https://www.cypress.io/) - Ai based web automation testing
 * [Eclipse](https://www.eclipse.org/) - Java scripting IDE
+* [Jmeter](https://jmeter.apache.org/) - Performance testing tool
 
 ### Testing Types 🧪:
 * Functional testing
@@ -70,6 +71,16 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * Automated testing
 * Regression testing
 * Mobile Automation testing
+* Performance Testing
+* Load Testing
+* Grey box testing
+
+### Programming and Query languages:
+* Java
+* Python
+* Java script
+* Type Script
+* SQL
 
 <!---
 2011guptashalini/2011guptashalini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
