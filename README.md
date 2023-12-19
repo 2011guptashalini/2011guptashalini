@@ -14,6 +14,10 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [Discord](https://discord.gg/FRukDEw2)
 * [Email](mailto:2011guptashalini@gmail.com)
 
+#### My new learnings
+* Captcha handling by selenium
+* Deep Accessibility Testing
+
 ## Work Sample 👷
 ### Manual Testing Work Sample: 
 ### Bug reports: 
