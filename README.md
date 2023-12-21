@@ -15,7 +15,7 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [Email](mailto:2011guptashalini@gmail.com)
 
 #### My new learnings
-* Captcha handling by selenium
+* Captcha handling by selenium. 
 * Deep Accessibility Testing
 
 ## Work Sample 👷
@@ -38,7 +38,8 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [Page Object Model, Appium For mobile app testing](https://www.awesomescreenshot.com/video/22891467?key=f71e648c63f934d2581eac59c063c571)  [Git Hub Repository](https://github.com/2011guptashalini/POM_Appium_Java)
 * [Cucumber BDD framework for mobile app fucntional, API testing](https://clipchamp.com/watch/gV6wpXGhTL7)  [Git Hub Repository](https://github.com/2011guptashalini/Cucumber-API-APPIUM-SELENIUM-WORKSAMPLE)
 * [Python Selenium Framework for Functional, API, DB Testing](https://screenpal.com/watch/c3f0obVY3xV)   [Git Hub Repository](https://github.com/2011guptashalini/PytestSkeleton)
-* [Playwright Python POM Pytest](https://www.youtube.com/watch?v=HTHAGTiIf0c)  [Git Hub Repository](https://github.com/2011guptashalini/POM_playwright_pytest) 
+* [Playwright Python POM Pytest](https://www.youtube.com/watch?v=HTHAGTiIf0c)  [Git Hub Repository](https://github.com/2011guptashalini/POM_playwright_pytest)
+* [Database Testing]  [Git Hub Repository](https://github.com/2011guptashalini/DatabaseTesting) 
 
 
 ### Domains Expertise 💻:
