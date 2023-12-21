@@ -39,7 +39,7 @@ So if you are willing to see your application FREE FROM BUGS 🐛🐛🐛, on ti
 * [Cucumber BDD framework for mobile app fucntional, API testing](https://clipchamp.com/watch/gV6wpXGhTL7)  [Git Hub Repository](https://github.com/2011guptashalini/Cucumber-API-APPIUM-SELENIUM-WORKSAMPLE)
 * [Python Selenium Framework for Functional, API, DB Testing](https://screenpal.com/watch/c3f0obVY3xV)   [Git Hub Repository](https://github.com/2011guptashalini/PytestSkeleton)
 * [Playwright Python POM Pytest](https://www.youtube.com/watch?v=HTHAGTiIf0c)  [Git Hub Repository](https://github.com/2011guptashalini/POM_playwright_pytest)
-* [Database Testing]  [Git Hub Repository](https://github.com/2011guptashalini/DatabaseTesting) 
+* [Database Testing](https://github.com/2011guptashalini/DatabaseTesting) 
 
 
 ### Domains Expertise 💻:
